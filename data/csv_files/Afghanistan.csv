@@ -1,0 +1,16 @@
+Name,Role,Batting Skill,Batting Type Main,Batting Type Sub,Bowling Skill,Bowling Type,Fielding Skill
+Hashmatullah Shahidi,Batsman,75,middle order,1,45,,90
+Rahmanullah Gurbaz,Batsman,71,top order,1,32,,80
+Ibrahim Zadran,Batsman,73,top order,2,51,,78
+Riaz Hassan,Batsman,67,top order,1,31,,69
+Rahmat Shah,Batsman,71,top order,3,65,Spin,81
+Najibullah Zadran,All-Rounder,69,middle order,,71,Spin,80
+Mohammad Nabi,All-Rounder,75,middle order,,78,Spin,83
+Ikram Alikhil,Batsman,71,middle order,,0,,86
+Azmatullah Omarzai,All-Rounder,70,middle order,2,76,Pace,80
+Rashid Khan,All-Rounder,80,middle order,,85,Spin,90
+Mujeeb ur Rahman,Bowler,45,lower order,,74,Spin,75
+Noor Ahmad,Bowler,31,lower order,,75,Spin,71
+Fazalhaq Farooqi,Bowler,45,lower order,,71,Pace,80
+Abdul Rahman,Bowler,56,lower order,,70,Pace,60
+Naveen ul Haq,Bowler,32,lower order,,74,Pace,71
