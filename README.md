@@ -60,7 +60,7 @@ Once the installation is complete, a confirmation screen will appear. Click "Fin
 
 ## Acknowledgements
 
- - Partner-in-Crime: Aneeq-ur-Rahman
+ - Partner-in-Crime: Aneeq-ur-Rehman
  - Course Instructor: Ma'am Ayesha Sarwar
  - Lab Instructor: Ma'am Mehwish Kiran
 
