@@ -47,7 +47,8 @@ Once the installation is complete, a confirmation screen will appear. Click "Fin
 
 
 ## Folder Hierarchy
-<img width="377" alt="f1" src="https://github.com/Hashi-007/ICC-World-Cup-Simulator-2023/assets/154681644/7817a383-7df1-495f-947f-9a88d050038d">
+![image_2023-12-26_073145920](https://github.com/Hashi-007/ICC-World-Cup-Simulator-2023/assets/154681644/03fcb341-1e0e-4cff-a46c-9422e7b77f2d)
+
 
 ## Match Engine Flow Chart
 ![Screenshot 2023-12-20 201327 PNG](https://github.com/Hashi-007/ICC-World-Cup-Simulator-2023/assets/154681644/6c723798-256b-45ce-aaee-2fae852fd837)
