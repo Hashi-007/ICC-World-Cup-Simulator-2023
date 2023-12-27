@@ -61,8 +61,8 @@ Once the installation is complete, a confirmation screen will appear. Click "Fin
 
 ## Acknowledgements
 
- - Partner-in-Crime: Aneeq-ur-Rehman
- - Course Instructor: Ma'am Ayesha Sarwar
+ - Partner-in-Crime: [@Aneeq-ur-Rehman](https://github.com/Aneeqqq)
+ - Course Instructor: Ma'am [@Ayesha Sarwar](https://github.com/AyeshaSarwar)
  - Lab Instructor: Ma'am Mehwish Kiran
 
 ![Logo](https://github.com/Hashi-007/ICC-World-Cup-Simulator-2023/assets/154681644/43812658-9cd3-4497-9647-a01cefd63f88)
